@@ -1,2 +1,2 @@
 # string-server
-this is the string server project by group 18
+this is the string server in c
